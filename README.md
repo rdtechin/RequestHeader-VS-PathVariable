@@ -3,5 +3,5 @@
 The Application code deals with the contrast between the two most important Annotation ,i.e, @RequestHeader and @PathVariable both 
 the Annotations are used for accepting values dynamically.
 
-The Main contrast between the usage of them are present in the article below:
+The Main contrast between the usage of them are present in the video below:
 
